@@ -5,12 +5,15 @@ It demonstrates the use of embeddings, RNN layers, and prediction pipelines.
 
 ---
 
-## 📂 Project Structure/
-│-- main.py # Main script to train & evaluate RNN
-│-- embedding.ipynb # Notebook for embedding exploration
-│-- prediction.ipynb # Notebook for prediction and inference
-│-- simplernn.ipynb # Training pipeline using Simple RNN
-│-- simple_rnn_imdb.keras # Saved trained model
+## 📂 Project Structure
+
+**│-- main.py**
+**│-- embedding.ipynb**
+**│-- prediction.ipynb**
+**│-- simplernn.ipynb**
+**│-- simple_rnn_imdb.keras**
+**│-- README.md**
+
 
 
 
