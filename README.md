@@ -5,7 +5,7 @@ It demonstrates the use of embeddings, RNN layers, and prediction pipelines.
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure/
 │-- main.py # Main script to train & evaluate RNN
 │-- embedding.ipynb # Notebook for embedding exploration
 │-- prediction.ipynb # Notebook for prediction and inference
